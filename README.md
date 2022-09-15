@@ -4,7 +4,7 @@
 Focus on setting up and using Python Language, Pandas Library, and Jupyter Environment. Get familiar with the new School District dataset and perform some basic analysis.
 
 ## Resources
-Data Source: new_full_student_data.csv
+Data Source: new_full_student_data.csv 
 Software: Python, Jupyter Notebook, Pandas 
 
 ## Results
