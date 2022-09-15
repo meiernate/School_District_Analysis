@@ -5,6 +5,7 @@ Focus on setting up and using Python Language, Pandas Library, and Jupyter Envir
 
 ## Resources
 Data Source: new_full_student_data.csv 
+
 Software: Python, Jupyter Notebook, Pandas 
 
 ## Results
